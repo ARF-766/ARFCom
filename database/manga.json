@@ -1,0 +1,55 @@
+{
+  "_version": "appV1.0 Rev 0",
+  "manga_id": "mc-mhw-0089",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Yongsalja-ui Geubwon-i Dareun Hoegwi",
+  "status": "Ongoing",
+  "author": "Noke",
+  "artist": "Jiwun",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 9.6,
+  "synopsis": "Setelah dikhianati dan gugur dalam pertempuran penghabisan melawan sang Raja Naga yang memusnahkan umat manusia, sang Pembunuh Naga terhebat mendapatkan sebuah keajaiban. Ia kembali ke masa lalu saat akademi hunter baru saja dimulai. Dengan memori, teknik pedang, dan dendam masa lalunya, ia bertekad untuk memperbaiki semua kesalahan dan membantai setiap naga sebelum mereka mencapai kekuatan penuh.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/dragonslayer-peerless.webp",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Akhir dan Permulaan Baru",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch01/001.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch01/002.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch01/003.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch01/004.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch01/005.webp"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kebangkitan Kelas Pembunuh Naga",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch02/001.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch02/002.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch02/003.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch02/004.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch02/005.webp"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Ujian Pertama Akademi",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch03/001.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch03/002.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch03/003.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch03/004.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cbz-extract/ch03/005.webp"
+      ]
+    }
+  ]
+}
